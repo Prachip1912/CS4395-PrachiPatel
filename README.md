@@ -3,7 +3,7 @@
 ## Homework Zero
 You can see the [homework zero answers here](HomeWork0_pbp180000.pdf)
 
-##Homework1
+## Homework1
 
 In this assignment, I took a file with employee information and standardized the information that was presented
 This program takes the employee data, makes sure that the information is in the correct format and that 
