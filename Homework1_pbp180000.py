@@ -62,7 +62,7 @@ def process(file):
             
         #match the id to the format required with two letters followed by four digits.
         # if id is not in required format ask user to input it again
-        while re.search(r"[A-za-z]{2}[0-9]{4}$", file[x][3]) == None:
+        while re.search(r"[A-Z]{2}[0-9]{4}$", file[x][3]) == None:
             inp = input("ID invalid: " + file[x][3] + "\n" +
                         "ID is two letters followed by 4 digits" + "\n" +
                         "Please enter a valid id:")
