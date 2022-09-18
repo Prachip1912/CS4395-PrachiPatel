@@ -25,3 +25,13 @@ Here is the [link](Homework1_pbp180000.py) to the assignment.
 
 In this assignment, I explored the many nltk functions such as the word and sentence tokenizers. I also explored the 
 text object's methods. Here is the [link](Homework2_pbp180000.pdf) to the assignment.
+
+## Homework3- HangMan/Wheel Of Fortune
+
+In this assignment, I was given a text file containing information from an anatomy textbook. I preprocessed the data
+by tokenizing it, making sure the word was larger than 5 characters, that it was actually a word, and that it wasn't a 
+stopword. I also lemmatized this tokenized information to get the set of unique lemmas and do POS tagging. Then I got 
+the first 50 most commonly used nouns and set them aside for the word guessing game. I then created a Hangman/Wheel
+of Fortune style word guessing game, and made sure to keep score of points and whether the user wanted to end the game.
+To play the game and see the assignment, here is the [link](Homework3_pbp180000.py). Enjoy playing the game! I know
+that I did.
