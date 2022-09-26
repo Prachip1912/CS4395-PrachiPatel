@@ -35,3 +35,11 @@ the first 50 most commonly used nouns and set them aside for the word guessing g
 of Fortune style word guessing game, and made sure to keep score of points and whether the user wanted to end the game.
 To play the game and see the assignment, here is the [link](Homework3_pbp180000.py). Enjoy playing the game! I know
 that I did.
+
+## Homework4- Exploration of WordNet and SentiWordNet
+
+In this assignment, I explored the libraries of WordNet and SentiWordNet. I found out the various functionalities of these 
+libraries. I found out that WordNet could give a  lot of information about the word itself involving the definition, or
+even the hierarchy of these words. SentiWordNet which is built on top of WordNet gave me the functionality of 
+understanding the sentiment behind these words by giving it a positive, negative, and objective score. You can
+access the [link](Homework4_pbp180000.pdf) to the assignment here.
