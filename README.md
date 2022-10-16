@@ -53,3 +53,9 @@ calculating the probabilities of each language and choosing the highest probabil
 another document. You can accesss [the first part](Homework5_pbp180000_and_kxn180023_Program1.py) and 
 [the second part](Homework5_pbp180000_and_kxn180023_Program2.py) here.
 
+## Homework6 - WebCrawler
+In this assignment, I crawled the web and looked for further urls from a wikipedia page, to create a dictionary of facts about
+the topic- Halloween- that I was crawling for information about. I had to go through the urls, and use tf-idf to figure out the
+most important terms in relation to the topic of Halloween. This allowed me to create a database/information bank with 
+facts about Halloween. You can access the [link](Homework6_pbp180000_and_kxn180023.py) to the assignment here.
+
