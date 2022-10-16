@@ -43,3 +43,13 @@ libraries. I found out that WordNet could give a  lot of information about the w
 even the hierarchy of these words. SentiWordNet which is built on top of WordNet gave me the functionality of 
 understanding the sentiment behind these words by giving it a positive, negative, and objective score. You can
 access the [link](Homework4_pbp180000.pdf) to the assignment here.
+
+## Homework5 -N-Grams
+In this assignment, I explored the nltk libraries to create unigrams and bigrams. I created a dictionary of unigrams and 
+bigrams for the documents that were passed in. These documents contained vocabulary from the English, French, and 
+Italian languages. These dictionaries were then pickled. Then in another python file, I unpickled the dictionaries, and
+took in a test document, in which I had to predict whether that sentence was English, French or Italian. I did this by
+calculating the probabilities of each language and choosing the highest probability. The result was then outputted into 
+another document. You can accesss [the first part](Homework5_pbp180000_and_kxn180023_Program1.py) and 
+[the second part](Homework5_pbp180000_and_kxn180023_Program2.py) here.
+
