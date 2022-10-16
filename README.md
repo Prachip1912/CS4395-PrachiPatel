@@ -59,3 +59,7 @@ the topic- Halloween- that I was crawling for information about. I had to go thr
 most important terms in relation to the topic of Halloween. This allowed me to create a database/information bank with 
 facts about Halloween. You can access the [link](Homework6_pbp180000_and_kxn180023.py) to the assignment here.
 
+## Homework7 - Parsing
+In this assignment, I created a sentence and applied the PSG, SRL, and Dependecy Parsing to break the sentence down
+and get information about it. Then I wrote a paragraph of the pros and cons of each of the parsers. You can access the 
+[link](Homework7_pbp180000.pdf) to the assignment here.
