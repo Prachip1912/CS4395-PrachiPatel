@@ -63,3 +63,15 @@ facts about Halloween. You can access the [link](Homework6_pbp180000_and_kxn1800
 In this assignment, I created a sentence and applied the PSG, SRL, and Dependecy Parsing to break the sentence down
 and get information about it. Then I wrote a paragraph of the pros and cons of each of the parsers. You can access the 
 [link](Homework7_pbp180000.pdf) to the assignment here.
+
+## Homework8 - Author Attribution
+In this assignment, I tried various models like Bernoulli Naive Bayes, Logistic Regression, and a MLPClassifier(Neural
+Networks) to predict who the author of the text is. I looked at the federalist papers and used the tfidf vectorizer to vectorize
+the document to put into the models and adjusted the hyperparameters to get the best accuracy possible. You can access the 
+[link](Author_Attribution_pbp180000.pdf) to the assignment here.
+
+## Homework9 - ACL Paper Summary
+For this assignment, I took a long paper from the Long Paper Proceedings of the 2021 ACL conference and read it. Then I 
+created an informative summary of the research paper and of its importance and contributions. You can read the summary
+of the paper "How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements", at this 
+[link](ACL_Paper_Summary_pbp180000_and_kxn180023.pdf) here.
