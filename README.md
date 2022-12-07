@@ -75,3 +75,15 @@ For this assignment, I took a long paper from the Long Paper Proceedings of the 
 created an informative summary of the research paper and of its importance and contributions. You can read the summary
 of the paper "How Did This Get Funded?! Automatically Identifying Quirky Scientific Achievements", at this 
 [link](ACL_Paper_Summary_pbp180000_and_kxn180023.pdf) here.
+
+## Homework10 - Chatbot
+For this assignment, I created a chatbot that gives recipes based on what the user likes and dislikes. I used
+a multitude of NLP concepts and got the knowledge base by using a recipe database on the web. 
+You can read the project report, at this [link](Chatbot_Report_pbp180000_and_kxn180023.pdf) here.
+ The link to the actual [chatbot](Chatbot_pbp180000_and_kxn180023_Program1.py) is here.
+
+## Homework9 - Text Classification
+For this assignment, I took a dataset from kaggle that identifies sentences as either belonging to the biology,
+chemistry, or physics topic. I tried using a sequential model, a RNN, and using embeddings to see how well the models 
+could predict the topic of the sentence. 
+You can see the code and the [results](text_classification_pbp180000_and_kxn180023.ipynb_-_Colaboratory (1).pdf) here.
