@@ -82,7 +82,7 @@ a multitude of NLP concepts and got the knowledge base by using a recipe databas
 You can read the project report, at this [link](Chatbot_Report_pbp180000_and_kxn180023.pdf) here.
  The link to the actual [chatbot](Chatbot_pbp180000_and_kxn180023_Program1.py) is here.
 
-## Homework9 - Text Classification
+## Homework11 - Text Classification
 For this assignment, I took a dataset from kaggle that identifies sentences as either belonging to the biology,
 chemistry, or physics topic. I tried using a sequential model, a RNN, and using embeddings to see how well the models 
 could predict the topic of the sentence. 
